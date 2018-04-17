@@ -3,7 +3,7 @@ clear all; close all; format long;
 
 %% SIMULATION PARAMETERS
 speed(1,1)=50;  %% slower UAV speed 
-speed(2,1)=100; %% faster UAV speed 
+speed(2,1)=200; %% faster UAV speed 
 
 %% Create Map
 figure
